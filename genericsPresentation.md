@@ -1,4 +1,4 @@
-#JSR 14# 
+#JSR 14#
 Adding Generics to Java
 
 Principals of Programing Languages
@@ -7,46 +7,40 @@ Heather L. Dykstra
 Caitlin E. Hickey 
 Michael D. Williams
 
-#What are Generics?# 
 
-- Generics are a type or method to operate on objects of various types while providing compile-time type safety
+#Slide 1#
 
-- They can be any of the following
-
-	- Type Variables
+- point
+	- sub point
+	- sub point
 	
-	- Class
-	
-	- Interface
+#Slide 2#
 
-	- Method
-	
-	- Constructors
- 
-#What made us try to implement them?# 
+total thought
 
-#Other Motivations# 
+#Slide 3#
 
-#What was the aproximate timeline of their creation?#
-On May 11, 1999 the Java Specification Request of adding generic types to the Java Programming Language was approved. Years later the Final Release was published. This was on September 30, 2004 but the main community arguments happened between the two dates. From the 18th of May 1999 until August 1, 2001 the public had the opportunity to review and create the implementation.
+#Slide 4#
 
-#Type Wildcards# 
+#Slide 5#
 
-#Type Erasure# 
+#Slide 6#
 
-#Inheritance and Subtypes# 
+#Slide 7#
 
-#Advantage: Type Safety# 
+#Slide 8#
 
-#Disadvantage: Over Complication# 
+#Slide 9#
 
-#Advantage# 
+#Slide 10#
 
-#Disadvantage# 
+#Slide 11#
 
-#Advantage# 
+#Slide 12#
 
-#Disadvantage# 
+#Slide 13#
+
+#Slide 14#
 
 #Slide 15#
 
@@ -58,7 +52,7 @@ On May 11, 1999 the Java Specification Request of adding generic types to the Ja
 
 #Slide 19#
 
-#Any Questions?# 
+#Any Questions? # 
 
 Thanks! 
 
