@@ -52,7 +52,7 @@ total thought
 
 #Slide 19#
 
-#Any Questions? # 
+#Any Questions? 
 
 Thanks! 
 
