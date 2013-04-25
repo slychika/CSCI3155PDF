@@ -46,9 +46,9 @@ Note that if you change the name of any file you have to change it everywhere it
 
 I think there were a few other small dependencies that i may have had to install to get generate to work, but I think that is explained in Baker's readme. 
 
-Alright, I think that is it. If any of you get a slide timer to run, post to piazza but if you could also email it to everyone in this initial email, that would be really awesome.
-
+Alright, I think that is it. If any of you get a slide timer to run, post to piazza and push to edit this!
 Let me know if you have any other questions!
 
 Good luck, and DFTBA,
+
 Heather
