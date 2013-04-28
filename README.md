@@ -51,3 +51,16 @@ I think there were a few other small dependencies that i may have had to install
 A simple shell script capable of running on Macs, and most likely Windows and Ubuntu (haven't tested it yet), is also available.
 
 It is very simple to use and still allows for editing the theme and color scheme (and I plan to add font later). Instructions are provided in the *README* within the *Simple Slideshow Generator for Mac* folder.
+
+##ADOBE READER FOR TIMING##
+
+*The following section was later added by Andrea Sassu*
+
+If you have Adobe Reader and the presentation generated into a .pdf before your time to present, then you can just 
+use the fullscreen settings for Adobe Reader. 
+
+All you have to do go to __Edit -> Preferences -> Full Screen__, and there 
+should be an option to __"Advance every _ seconds."__ If you just put 15 in the time field, and put the presentation 
+in fullscreen mode at the start of your presentation, then you should be good to go!
+
+-----------------------------------------------------
