@@ -14,14 +14,14 @@ So, I had issues using the python script to make a PDF, so I made my own shell s
 
 ###Necessary Software:
 
-1. [Pandoc](https://code.google.com/p/pandoc/downloads/list)
-2. [MacTex](http://tug.org/mactex/) or [BasicTex](http://tug.org/mactex/morepackages.html)
+1. [Pandoc](https://code.google.com/p/pandoc/downloads/list) *(Any OS)*
+2. [MacTex](http://tug.org/mactex/) or [BasicTex](http://tug.org/mactex/morepackages.html) *(Mac Specific)*
 
 ###Running the Shell Script
 
 1. Put the shell script in the same place as your markdown file.
 2. Edit the shell script so that `"Paper Slideshow.md"` is your markdown file. Quotes are only needed if there is a space in the name. You can also change the current output file (slides.pdf) to whatever name you would prefer.
-3. Open the terminal and type `chmod 755 makebeamer.sh` You should only have to do this once.
+3. Open the terminal and type `chmod 755 makebeamer.sh`. You should only have to do this once.
 4. Just type `./makebeamer.sh` to run the script!
 
 ###Changing the theme
