@@ -1,14 +1,11 @@
 #Editing and Creating a markdown based PDF#
 ###By Heather Dykstra##
+####With Additions from Andrea Sassu and Hannah Thomas####
 
 #Option 1: Python Script
 
-So I've hit a bright red brick wall on getting the slides to happen every 15 seconds...
+Intial source for general help: http://www.reddit.com/r/LaTeX/comments/1cyc14/presentation_with_beamer_file_help_needed/
 
-I posted http://www.reddit.com/r/LaTeX/comments/1cyc14/presentation_with_beamer_file_help_needed/
-but I still don't have all the materials I need...
-
-I'm going to create a repo with what I have now, at slychika/CSCI3155PDF
 
 If you like the idea of the pdf-presenter-console you MUST install/run it on ubuntu (so our virtual boxes will work fine). This feature allows for a timer to run on your main comp while you present and shows how much time you have left. It is really cool but the software isn't as functional as I would like it to be. I emailed the guy behind it, so we shall see if that goes anywhere. *crosses fingers*
 
@@ -47,13 +44,6 @@ I included everything you really need as a final slide in my pdf (slide 21) (it 
 Note that if you change the name of any file you have to change it everywhere it is called.
 
 I think there were a few other small dependencies that i may have had to install to get generate to work, but I think that is explained in Baker's readme. 
-
-Alright, I think that is it. If any of you get a slide timer to run, post to piazza and push to edit this!
-Let me know if you have any other questions!
-
-Good luck, and DFTBA,
-
-Heather
 
 #Option 2: Shell Script
 **(by Hannah Thomas)**
