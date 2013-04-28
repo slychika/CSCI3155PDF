@@ -4,6 +4,10 @@
 ##Notes
 I plan to add the timer functionality as soon as I figure out how to.
 
+This generator assumes that your slide titles are made using the second header formatting (## or ----). If you would like to use something else, either delete the `--slide-level=2` part or place in another number for `slide-level`.
+
+Also, I think this should work on Windows and Ubuntu, but am not entirely sure.
+
 ##Instructions
 
 So, I had issues using the python script to make a PDF, so I made my own shell script.
