@@ -1,6 +1,8 @@
 #Editing and Creating a markdown based PDF#
 ###By Heather Dykstra##
 
+#Option 1: Python Script
+
 So I've hit a bright red brick wall on getting the slides to happen every 15 seconds...
 
 I posted http://www.reddit.com/r/LaTeX/comments/1cyc14/presentation_with_beamer_file_help_needed/
@@ -52,3 +54,10 @@ Let me know if you have any other questions!
 Good luck, and DFTBA,
 
 Heather
+
+#Option 2: Shell Script
+**(by Hannah Thomas)**
+
+A simple shell script capable of running on Macs, and most likely Windows and Ubuntu (haven't tested it yet), is also available.
+
+It is very simple to use and still allows for editing the theme and color scheme (and I plan to add font later). Instructions are provided in the *README* within the *Simple Slideshow Generator for Mac* folder.
