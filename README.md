@@ -52,6 +52,13 @@ A simple shell script capable of running on Macs, and most likely Windows and Ub
 
 It is very simple to use and still allows for editing the theme and color scheme (and I plan to add font later). Instructions are provided in the *README* within the *Simple Slideshow Generator for Mac* folder.
 
+#Option 3: Makefile
+
+Copy the included Makefile into your talk project and type `make`. The Makefile 
+assumes a source file named `talk.md`. Change the `all` target to point to your
+presentation file. Flags are passed to `pandoc` in the `PANDOC_FLAGS` variable.
+Change this to change the theme and color options.
+
 ##ADOBE READER FOR TIMING##
 
 *The following section was later added by Andrea Sassu*
